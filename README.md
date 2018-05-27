@@ -1,5 +1,5 @@
 
-# Project-Prism
+# Prism
 
 
 ### Table of Contents
