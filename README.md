@@ -2,78 +2,78 @@
 ## Project-Prism
 
 
-## Table Contents
-    ### Overview
+### Table Contents
+      Overview
 
-    ### Theme / Setting / Genre
+      Theme / Setting / Genre
 
-    ### Core Gameplay Mechanics Brief
+      Core Gameplay Mechanics Brief
 
-    ### Targeted platforms
+      Targeted platforms
 
-    ### Monetization model (Brief/Document)
+      Monetization model (Brief/Document)
 
-    ### Project Scope
+      Project Scope
 
-    ### Influences (Brief)
+     Influences (Brief)
     
-        - <Influence #1>
+      - <Influence #1>
         
-        - <Influence #2>
+      - <Influence #2>
         
-        - <Influence #3>
+      - <Influence #3>
         
-        - <Influence #4>
+      - <Influence #4>
         
-    ### The elevator Pitch
+    The elevator Pitch
     
-    ### Project Description (Brief):
+    Project Description (Brief):
     
-    ### Project Description (Detailed)
+    Project Description (Detailed)
     
-    ### What sets this project apart?
+    What sets this project apart?
     
-    ### Core Gameplay Mechanics (Detailed)
+    Core Gameplay Mechanics (Detailed)
     
-        - <Core Gameplay Mechanic #1>
+      - <Core Gameplay Mechanic #1>
         
-        - <Core Gameplay Mechanic #2>
+      - <Core Gameplay Mechanic #2>
         
-        - <Core Gameplay Mechanic #3>
+      - <Core Gameplay Mechanic #3>
         
-        - <Core Gameplay Mechanic #4>
+      - <Core Gameplay Mechanic #4>
         
-    ### Story and Gameplay
+    Story and Gameplay
     
-    ### Story (Brief)
+    Story (Brief)
     
-    ### Story (Detailed)
+    Story (Detailed)
+   
+    Gameplay (Brief)
     
-    ### Gameplay (Brief)
+    Gameplay (Detailed)
     
-    ### Gameplay (Detailed)
+    Assets Needed
     
-    ### Assets Needed
+     - 2D
     
-        - 2D
+     - 3D
     
-        - 3D
+     - Sound
     
-        - Sound
+     - Code
     
-        - Code
+     - Animation
+     
+    Schedule
     
-        - Animation
-    
-    ### Schedule
-    
-       - <Object #1>
+     - <Object #1>
        
-       - <Object #2>
+     - <Object #2>
         
-       - <Object #3>
+     - <Object #3>
        
-       - <Object #4>
+     - <Object #4>
 
 
 
