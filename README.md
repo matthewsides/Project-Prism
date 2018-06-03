@@ -1,5 +1,3 @@
-
-## Project-Prism
 ![Alt text](https://github.com/matthewsides/Project-Prism/blob/master/Logo-Prototype-Prism.gif?raw=true "Optional Title")
 
 
