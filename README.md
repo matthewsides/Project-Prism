@@ -93,7 +93,7 @@ Here are some more details about the possible features a DDA could effect if imp
 
 • Player Buff: This would link into increasing the amount of damage a player outputs and inflicts upon enemy AI.
 
-• Player debuff: The player's damage output would be significantly dampened, thus causing movement to become a crucial game component     for players to rely on as AI require more hits but still relay the same if not more damage depending on the DDA's current settings in   relation to a scenario.   
+• Player debuff: The player's damage output would be significantly dampened, thus causing movement to become a crucial game component     for players to rely on as AI require more hits but still relay the same if not more damage depending on the DDA's current settings in   relation to a scenario.      
 
 • AI's  accuracy increase
 
