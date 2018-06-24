@@ -91,10 +91,9 @@ Here are some details about the possible features a DDA could effect if implemen
 
 • Decrease AI's health: 
 
-• Player buff/debuff: Inrelation to a buff, this would link into increasing the amount of damage a player outputs and inflicts upon ㅤㅤ
-enemy AI. Whilst a debuff would lead to the player's damage output would be significantly dampened, thus causing movement to become a   crucial game component for players to rely on as AI require more hits but still relay the same if not more damage depending on the ㅤ   DDA's current settings in relation to a scenario.      
+• Player buff/debuff: In relation to a buff, this would link into increasing the amount of damage a player outputs and inflicts upon enemy AI. Whilst a debuff would lead to the player's damage output would be significantly dampened, thus causing movement to become a  crucial game component for players to rely on as AI require more hits but still relay the same if not more damage depending on the DDA's current settings in relation to a scenario.      
 
-• AI's accuracy increase/decrease: The rate at which an AI hits a player would increase as the probalility of a miss and distance would decrease. Inversely the rate at which an AI hits the player would decrease as the probalility of a miss and the distance between the ㅤplayer and bullets would increase. 
+•  AI's accuracy increase/decrease: The rate at which an AI hits a player would increase as the probability of a miss and distance would decrease. Inversely the rate at which an AI hits the player would decrease as the probability of a miss and the distance between the player and bullets would increase.
 
 •  AI more agile (Faster/Dodges More)
 
