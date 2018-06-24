@@ -114,7 +114,7 @@ Here are some more details about the possible features a DDA could effect if imp
 
 Though game adjustment is not soley focused on increasing player attributes or decreasing whent he player is finding the experience to hard or to easy; it is a design problem that involves estimating when and how to intervene. Keeping the player challenged and interested is especially difficult in interactive contexts. One common approach to player investment is the flow model developed by M. Csikszentmihalyi. 
 
-
+![Alt text](https://github.com/matthewsides/Project-Prism/blob/master/Logo-Prototype-Prism.gif?raw=true "Optional Title")
 
 
 
