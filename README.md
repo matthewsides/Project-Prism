@@ -74,6 +74,8 @@
        
      - <Object #4>
 
+Prisma is a ____
+
 ## Game Mechanics
 
 
