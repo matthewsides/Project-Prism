@@ -74,6 +74,42 @@
        
      - <Object #4>
 
+## Game Mechanics
+
+
+### Dynamic Difficulty Adjustment (DDA)
+
+Difficulty exists as a relative expression, a difference between the player and the game's challenge. It is integral when thinking about 
+difficulty to factor in the difficulty relative to the player and the players' assumed understanding of the game systems, goals, and means. 
+
+When players play a stage that is ridiculously hard or way too easy, they would probably quit the game because it is moderately
+frustrating or boring. Dynamic Difficulty Adjustment is a system designed to balance the spectrum, making it easier for players who are  struggling, without making the game easier for better players who would like a more challenging game.
+
+Here are some more details about the possible features a DDA could effect if implemented in 'Prisma'.
+
+• Increase AI's health 
+
+• Decrease AI's health
+
+• AI's  accuracy increase
+
+• AI's  accuracy decrease
+
+•  AI more agile (Faster/Dodges More)
+
+•  AI less agile (Slower/Dodges Less)
+
+•  More aggressive
+
+•  Less aggressive 
+
+•  More Cautious 
+
+•  Less Cautious 
+
+
+
+
 
 
 
