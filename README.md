@@ -85,25 +85,18 @@ difficulty to factor in the difficulty relative to the player and the players' a
 When players play a stage that is ridiculously hard or way too easy, they would probably quit the game because it is moderately
 frustrating or boring. Dynamic Difficulty Adjustment is a system designed to balance the spectrum, making it easier for players who are  struggling, without making the game easier for better players who would like a more challenging game.
 
+
 Here are some more details about the possible features a DDA could effect if implemented in 'Prisma'.
 
-• Increase AI's health: 
+• Increase AI's health: The AI would require more hits by the player in order to be destroyed.
 
-The AI would require more hits by the player in order to be destroyed.
+• Decrease AI's health: AI would require less hits to make them fall.
 
-• Decrease AI's health: 
+• Player Buff: This would link into increasing the amount of damage a player outputs and inflicts upon enemy AI.
 
-AI would require less hits to make them fall.
+• Player debuff: The player's damage output would be significantly dampened, thus causing movement to become a crucial game component     for players to rely on as AI require more hits but still relay the same if not more damage depending on the DDA's current settings in   relation to a scenario.      
 
-• Player Buff: 
-
-This would link into increasing the amount of damage a player outputs and inflicts upon enemy AI.
-
-• Player debuff: 
-
-The player's damage output would be significantly dampened, thus causing movement to become a crucial game component     for players to rely on as AI require more hits but still relay the same if not more damage depending on the DDA's current settings in   relation to a scenario.      
-
-• AI's  accuracy increase: 
+• AI's  accuracy increase: The rate at which an AI hits a player would increase as the would decrease
 
 • AI's  accuracy decrease
 
@@ -118,6 +111,8 @@ The player's damage output would be significantly dampened, thus causing movemen
 •  More Cautious nature
 
 •  Less Cautious nature
+
+Though game adjustment is not soley focused on increasing player attributes or decreasing whent he player is finding the experience to hard or to easy; it is a design problem that involves estimating when and how to intervene. Keeping the player challenged and interested is especially difficult in interactive contexts. One common approach to player investment is the flow model developed by M. Csikszentmihalyi. 
 
 
 
