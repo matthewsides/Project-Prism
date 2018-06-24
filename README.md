@@ -87,15 +87,23 @@ frustrating or boring. Dynamic Difficulty Adjustment is a system designed to bal
 
 Here are some more details about the possible features a DDA could effect if implemented in 'Prisma'.
 
-• Increase AI's health: The AI would require more hits by the player in order to be destroyed.
+• Increase AI's health: 
 
-• Decrease AI's health: AI would require less hits to make them fall.
+The AI would require more hits by the player in order to be destroyed.
 
-• Player Buff: This would link into increasing the amount of damage a player outputs and inflicts upon enemy AI.
+• Decrease AI's health: 
 
-• Player debuff: The player's damage output would be significantly dampened, thus causing movement to become a crucial game component     for players to rely on as AI require more hits but still relay the same if not more damage depending on the DDA's current settings in   relation to a scenario.      
+AI would require less hits to make them fall.
 
-• AI's  accuracy increase
+• Player Buff: 
+
+This would link into increasing the amount of damage a player outputs and inflicts upon enemy AI.
+
+• Player debuff: 
+
+The player's damage output would be significantly dampened, thus causing movement to become a crucial game component     for players to rely on as AI require more hits but still relay the same if not more damage depending on the DDA's current settings in   relation to a scenario.      
+
+• AI's  accuracy increase: 
 
 • AI's  accuracy decrease
 
@@ -103,13 +111,14 @@ Here are some more details about the possible features a DDA could effect if imp
 
 •  AI less agile (Slower/Dodges Less)
 
-•  More aggressive
+•  More aggressive nature
 
-•  Less aggressive 
+•  Less aggressive nature
 
-•  More Cautious 
+•  More Cautious nature
 
-•  Less Cautious 
+•  Less Cautious nature
+
 
 
 
